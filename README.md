@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co.com/5Wxkr6RV/Gemini-Generated-Image-oe16fxoe16fxoe16.png)
+![Banner](https://i.ibb.co/5Wxkr6RV/Gemini-Generated-Image-oe16fxoe16fxoe16.png)
 
 <h1 align="center">Hi there 👋, I'm Apon Datta</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
