@@ -87,6 +87,5 @@ I'm a Computer Science & Engineering student at Rajshahi University of Engineeri
   
   ⭐ Don't forget to star the repositories you like!
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=apondatta11&color=blueviolet)
   
 </div>
