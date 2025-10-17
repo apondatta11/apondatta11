@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/Tx9bGgHv/Banner-Github.jpg)
+![Banner](https://i.ibb.co.com/Tx9bGgHv/Banner-Github.jpg)
 
 <h1 align="center">Hi there 👋, I'm Apon Datta</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
