@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x300/0f172a/ffffff?text=Welcome+to+My+GitHub+Profile)
+![Banner]([https://via.placeholder.com/1200x300/0f172a/ffffff?text=Welcome+to+My+GitHub+Profile](https://lh3.googleusercontent.com/gg-dl/AJfQ9KRV9PCovd14ann5q1uc9du_IUl9qRESa8QxtESJ1j4hAHeZGtSfE1zOOnY42UpZ9vw1bfP1I8ZfMJz_K-Za71fKNGOT9acqrntifBu593UWBCZV0_C-HucY4OYw6AABa3iSacICgwmxwRfYnqBiT6qB5m0atZnJetqhKm2izecPTH3wtw=s1024-rj))
 
 <h1 align="center">Hi there 👋, I'm Apon Datta</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
